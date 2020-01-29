@@ -1,11 +1,9 @@
 # coding: utf-8
-import re
-import jaconv
-import asyncio
 import discord
 from  discord.ext import tasks
 from datetime import datetime, timedelta, timezone
 import os
+
 
 from urllib import request
 from bs4 import BeautifulSoup
