@@ -18,7 +18,7 @@ with open("config.json","r") as f:
 default_url = "https://www.youtube.com"
 
 alredy_href_list = [[],[],[],[],[],[]]
-channel_list = [670181985557151745,670182016083296256,670182036417282080,670182058060152863,670182088871247883,670268190055727133]
+channel_list = [673477447785644042,673477457550114826,673477466274398208,670182058060152863,673477482317611008,673477706284924928]
 
 search_url_list = ["https://www.youtube.com/results?search_query=%E3%83%AF%E3%82%A4%E3%83%90%E3%83%BC%E3%83%B3+%E3%83%97%E3%83%AA%E3%82%B3%E3%83%8D&sp=CAI%253D",#ワイバーン
             "https://www.youtube.com/results?search_query=%E3%83%AF%E3%82%A4%E3%83%AB%E3%83%89%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A9%E3%83%B3&sp=CAI%253D",#ワイルドグリフォン
